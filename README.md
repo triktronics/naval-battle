@@ -1,4 +1,4 @@
-# navel bettle
+# navel battle
 
 A game where you battle with ships!
 
@@ -8,7 +8,7 @@ A game where you battle with ships!
 
 [curently only on rawgit](https://rawgit.com/triktronics/naval-battle/master/index.html)
 
-## Changeloga game where you battle with ships!
+## Changelog
 
 
 **2015-10-03** `0.0.0a1` ~ triktron
