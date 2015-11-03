@@ -1,14 +1,14 @@
 # navel bettle
 
-a game were you battle with ships!
+A game where you battle with ships!
 
 **TODO**: download via glob pattern.
 
 ## demo
 
-[curently onlie on rawgit](https://rawgit.com/triktronics/naval-battle/master/index.html)
+[curently only on rawgit](https://rawgit.com/triktronics/naval-battle/master/index.html)
 
-## Changelog
+## Changeloga game where you battle with ships!
 
 
 **2015-10-03** `0.0.0a1` ~ triktron
