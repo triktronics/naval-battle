@@ -6,7 +6,7 @@ A game where you battle with ships!
 
 ## demo
 
-[curently only on rawgit](https://rawgit.com/triktronics/naval-battle/master/index.html)
+[demo](http://triktronics.github.io/naval-battle/)
 
 ## Changelog
 
